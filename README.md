@@ -22,6 +22,7 @@ SW3 — Style	Cycles creative color filters: Normal → Grayscale → Negative �
 
 
 # BOM
+https://docs.google.com/spreadsheets/d/1IaH7LT1O5QQDUS9v_x7o3M1KV6cQOsMQ6dbayOK4g3w/edit?gid=0#gid=0
 
 1x Seeed Studio ESP32 S3 Sense
 
