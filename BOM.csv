@@ -1,4 +1,4 @@
 Item,Qty,Part Name,Description,Price ($),Product Page Link
-1,1,Seeed Studio XIAO ESP32-S3 Sense,Dual-core ESP32-S3 MCU with detachable OV2640 camera board and digital mic,13.99,https://element14.com
-2,3,6mm Tactile Switch (6x6x5mm),4-pin momentary push button for hardware input/reset,0.05,https://makerhub.my
-3,1,1.3 Inch TFT IPS Display Module,240x240 Full-Color Screen with SPI interface (ST7789 Driver),2.15,https://lazada.com.my
+1,1,Seeed Studio XIAO ESP32-S3 Sense,Main MCU,13.90,https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html
+2,3,6mm Tactile Switch (6x6x5mm),4-pin momentary push button for hardware input/reset,$1.00,(Cant find link that sells 3 button)
+3,1,1.3 Inch TFT IPS Display Module,240x240 Full-Color Screen with SPI interface (ST7789 Driver),$7.99,https://www.amazon.com/Display-Module-240x240-Interface-Arduino/dp/B0DN9NMBFW/ref=sr_1_10
