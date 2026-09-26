@@ -1,6 +1,7 @@
-//  DIY Camera — Seeed XIAO ESP32-S3 Sense + 1.3" ST7735 TFT
-//  SW1 (GPIO1) = Sleep/Wake   SW2 (GPIO2) = Shutter
-//  SW3 (GPIO6) = Filter cycle
+// DIY Camera — Seeed XIAO ESP32-S3 Sense + 1.3" ST7735 TFT
+// SW1 (GPIO1) = Sleep/Wake   
+// SW2 (GPIO2) = Shutter
+// SW3 (GPIO6) = Filter cycle
 #include "esp_camera.h"
 #include "SD.h"
 #include "SPI.h"
@@ -20,7 +21,7 @@
 #define TFT_DC    5   
 #define SD_CS     21    
 
-// ---------------- Camera pins (Sense board) ----------------
+// Camera pins (Sense board)
 #define PWDN -1
 #define RESET -1
 #define XCLK  10
