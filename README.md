@@ -32,6 +32,7 @@ SW3 — Style	Cycles creative color filters: Normal → Grayscale → Negative �
 
 
 ### Note
+* **PCB and 3D printing**: PCB and 3D printind doesnt included in the Bill of material. 
 * **Buttons (Tactile Switches)**: These are universally sold in multi-packs (usually 10 to 50 pieces) rather than single units, which accounts for the \$1.00 baseline package price. 
 * **Display Interface**: The 1.3-inch screen utilizes a **4-wire SPI communication interface** driven by the **ST7789** controller chip. Ensure you match the pinout labels (GND, VCC, SCL, SDA, RES, DC, BLK) to the corresponding digital pins on your XIAO module during assembly.
 
