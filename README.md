@@ -21,8 +21,19 @@ SW2 — Shutter	Captures a photo and saves it to the microSD card
 SW3 — Style	Cycles creative color filters: Normal → Grayscale → Negative → Sepia → Night Vision Green
 
 
-# BOM
+## BOM
 
+| Item | Qty | Part Name | Description | Price (\$) | Product Page Link |
+| :---: | :---: | :--- | :--- | :---: | :--- |
+| **1** | 1 | Seeed Studio XIAO ESP32-S3 Sense | Dual-core ESP32-S3 MCU with detachable OV2640 camera board and digital mic | \$13.90 | [Seeed Studio Product Page](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html) |
+| **2** | 3 | 6mm Tactile Switch (6x6x5mm) | 4-pin momentary push button for hardware input/reset | \$1.00 | Search target: `6x6x5mm tactile switch pack` |
+| **3** | 1 | 1.3 Inch TFT IPS Display Module | 240x240 Full-Color Screen with SPI interface (ST7789 Driver) | \$7.99 | [Amazon Product Page](https://www.amazon.com/Display-Module-240x240-Interface-Arduino/dp/B0DN9NMBFW/ref=sr_1_10) |
+
+
+
+### Note
+* **Buttons (Tactile Switches)**: These are universally sold in multi-packs (usually 10 to 50 pieces) rather than single units, which accounts for the \$1.00 baseline package price. 
+* **Display Interface**: The 1.3-inch screen utilizes a **4-wire SPI communication interface** driven by the **ST7789** controller chip. Ensure you match the pinout labels (GND, VCC, SCL, SDA, RES, DC, BLK) to the corresponding digital pins on your XIAO module during assembly.
 
 ## Schematics
 
